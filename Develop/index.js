@@ -12,7 +12,7 @@ const questions = [{
 {
     type: 'input',
     name: 'description',
-    message: 'Describe your project.'
+    message: 'Describe your project -- What was your motivation for building it? Which problem(s) does this project aim to solve? How did you go about building it?'
 },
 {
     type: 'input',
