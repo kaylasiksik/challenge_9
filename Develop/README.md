@@ -16,9 +16,9 @@
   In order to use this app npm, node, inquirer
   
   # Contributions
-  Contribtions: N/A apart from those who created starter code
+  Contribtions: Kayla, N/A apart from those who created starter code
   # Tests
   use test
   # Questions
-  If you have any questions about the repository, please contact N/A apart from those who created starter code at: kaylasiksik@gmail.com
+  If you have any questions about the repository, please contact Kayla at: kayla.anne99@gmail.com
   
