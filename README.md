@@ -19,9 +19,8 @@
   Contribtions: Kayla, those who created starter code
   # Tests
   use test
-  ![F814C374-4662-4A01-8287-7B651CAE3AA4_1_102_o](https://user-images.githubusercontent.com/103952366/188493816-8e555d95-3ab0-41b2-9857-ade230454cb0.jpeg)
+[challenge9walkthrough (1).mov.zip](https://github.com/kaylasiksik/challenge_9/files/9491412/challenge9walkthrough.1.mov.zip)
 
-  
   # Questions
   If you have any questions about the repository, please contact Kayla at: kayla.anne99@gmail.com
   
